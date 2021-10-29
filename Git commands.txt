@@ -1,0 +1,4 @@
+git add """to Add a file for tracking in git and add a period (.) at the end for adding all files"""
+git commit -m "Enter a comment" """to commit the file for tracking"""
+git push """ to push file to server"
+check for ssh server and link vscode or any ide to github
